@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Exercise 3d - clink sound.wav-aa0ace25b7b7675d2e45341eb7ac8152.sample"
+
+[deps]
+
+source_file="res://Assets/Exercise 3d - clink sound.wav"
+dest_files=[ "res://.import/Exercise 3d - clink sound.wav-aa0ace25b7b7675d2e45341eb7ac8152.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
